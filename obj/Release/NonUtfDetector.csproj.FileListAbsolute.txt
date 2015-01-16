@@ -1,0 +1,6 @@
+c:\users\bartosz\documents\visual studio 2013\Projects\NonUtfDetector\bin\Release\NonUtfDetector.exe.config
+c:\users\bartosz\documents\visual studio 2013\Projects\NonUtfDetector\bin\Release\NonUtfDetector.exe
+c:\users\bartosz\documents\visual studio 2013\Projects\NonUtfDetector\bin\Release\NonUtfDetector.pdb
+c:\users\bartosz\documents\visual studio 2013\Projects\NonUtfDetector\obj\Release\NonUtfDetector.exe
+c:\users\bartosz\documents\visual studio 2013\Projects\NonUtfDetector\obj\Release\NonUtfDetector.pdb
+c:\users\bartosz\documents\visual studio 2013\Projects\NonUtfDetector\obj\Release\NonUtfDetector.csprojResolveAssemblyReference.cache

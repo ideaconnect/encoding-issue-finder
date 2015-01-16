@@ -1,0 +1,6 @@
+c:\users\bartosz\documents\visual studio 2013\Projects\NonUtfDetector\bin\Debug\NonUtfDetector.exe.config
+c:\users\bartosz\documents\visual studio 2013\Projects\NonUtfDetector\bin\Debug\NonUtfDetector.exe
+c:\users\bartosz\documents\visual studio 2013\Projects\NonUtfDetector\bin\Debug\NonUtfDetector.pdb
+c:\users\bartosz\documents\visual studio 2013\Projects\NonUtfDetector\obj\Debug\NonUtfDetector.exe
+c:\users\bartosz\documents\visual studio 2013\Projects\NonUtfDetector\obj\Debug\NonUtfDetector.pdb
+c:\users\bartosz\documents\visual studio 2013\Projects\NonUtfDetector\bin\Debug\Ude.dll
